@@ -1,0 +1,30 @@
+// https://leetcode.com/problems/find-eventual-safe-states/
+class Solution {
+public:
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int V = graph.size();
+        vector<int> adjRev[V];
+        vector<int> indegree(V, 0);
+
+        for (int i = 0; i < V; i++) {
+            for (auto it:graph[i]) {
+                adjRev[it].push_back(i);
+                indegree[i]++;
+            }
+        }
+
+        queue<int> q; vector<int> safeNode;
+        for (int i = 0; i < V; i++) if(indegree[i] == 0)    q.push(i);
+
+        while(!q.empty()) {
+            int first = q.front();q.pop();
+            safeNode.push_back(first);
+            for (auto it : adjRev[first]) {
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
+            }
+        }
+        sort(safeNode.begin(), safeNode.end());
+        return safeNode;
+    }
+};
