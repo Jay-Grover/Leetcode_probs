@@ -21,6 +21,7 @@ Solutions to leetcode probs
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@ Solutions to leetcode probs
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
