@@ -7,6 +7,7 @@ Solutions to leetcode probs
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Solutions to leetcode probs
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -46,4 +48,8 @@ Solutions to leetcode probs
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
