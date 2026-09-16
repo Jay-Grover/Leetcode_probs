@@ -48,8 +48,21 @@ Solutions to leetcode probs
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jay-Grover/Leetcode_probs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
